@@ -22,8 +22,5 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
-### My Github Actions
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Feng373712195)]()
-
 ### About me
 I'm a front-end engineer
